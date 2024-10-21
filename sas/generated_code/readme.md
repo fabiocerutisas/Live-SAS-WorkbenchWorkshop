@@ -1,0 +1,1 @@
+This folder stores all the SAS Script generated from WOE Binning and the score code. It is re-usable for transforming new data and scoring it.

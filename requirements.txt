@@ -1,0 +1,8 @@
+pyarrow < 17.0.0
+awswrangler == 3.9.1
+snowflake-connector-python == 3.12.1
+databricks-sql-connector == 3.4.0
+azure-storage-blob == 12.22.0
+azure-storage-file-datalake == 12.16.0
+optuna == 3.6.1
+sasctl == 1.10.6
