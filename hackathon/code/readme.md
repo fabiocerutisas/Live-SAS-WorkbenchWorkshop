@@ -1,1 +1,0 @@
-This folder is where you will write your code to prepare hackathon submissions

@@ -1,1 +1,0 @@
-This folder contains all the SAS Tables that will be created when executing the entire pipeline of scripts

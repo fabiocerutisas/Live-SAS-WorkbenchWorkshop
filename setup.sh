@@ -11,7 +11,7 @@ fi
 source .venv/bin/activate
 echo "Virtual environment activated."
 
-cd Workbench-Workshop-Handout
+cd Live-SAS-WorkbenchWorkshop
 
 # Install the required packages
 if [ -f "requirements.txt" ]; then

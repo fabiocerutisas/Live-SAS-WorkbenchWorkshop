@@ -1,1 +1,0 @@
-This folder stores the astore file for the gan algorithm
