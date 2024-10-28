@@ -1,3 +1,4 @@
 *.pem
 credentials.py
 credentials.sas
+*.parquet
