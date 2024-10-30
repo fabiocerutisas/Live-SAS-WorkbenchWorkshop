@@ -2,3 +2,5 @@
 credentials.py
 credentials.sas
 *.parquet
+refresh_token.txt
+access_token.txt
