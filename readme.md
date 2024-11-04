@@ -23,7 +23,7 @@ This repository contains all the relevant material for successfully following th
 
 ![Alt text](img/run_workbench.png)
 
-6. Once the workbench is running, press Open Visual Studio Code
+6. Once the workbench is running, press **Open Visual Studio Code**
 
 7. Open a **New Terminal**.
 
