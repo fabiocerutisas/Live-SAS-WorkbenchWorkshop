@@ -3,33 +3,25 @@ This repository contains all the relevant material for successfully following th
 
 ## Accessing the Material:
 
-1. Navigate to storage.
-
-![Alt text](img/navigate_to_storage.png)
-
-2. Create the following storage location.
-
-![Alt text](img/create_storage.png)
-
-3. Create a workbench.
+1. Create a workbench.
 
 ![Alt text](img/create_workbench.png)
 
-4. Configure your workbench in the following way.
+2. Configure your workbench in the following way.
 
 ![Alt text](img/configure_workbench.png)
 
-5. Start your workbench instance.
+3. Start your workbench instance.
 
 ![Alt text](img/run_workbench.png)
 
-6. Once the workbench is running, press **Open Visual Studio Code**
+4. Once the workbench is running, press **Open Visual Studio Code**
 
-7. Open a **New Terminal**.
+5. Open a **New Terminal**.
 
 ![Alt text](img/open_terminal.png)
 
-8. Type:
+6. Type:
 ```bash
 git clone https://github.com/fabiocerutisas/Live-SAS-WorkbenchWorkshop.git
 ```
