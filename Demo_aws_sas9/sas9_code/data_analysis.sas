@@ -4,7 +4,7 @@
 %let class_inputs    = reason job;
 %let interval_inputs = clage clno debtinc loan mortdue value yoj derog delinq ninq;
 %let target          = bad;
-%let outdir = /workspaces/workshop/Live-SAS-WorkbenchWorkshop/Demo/sas9_code;
+%let outdir = /workspaces/workshop/Live-SAS-WorkbenchWorkshop/Demo_aws_sas9/sas9_code;
 
 %let im_class_inputs    = reason job;
 %let im_interval_inputs = im_clage im_clno im_debtinc im_loan im_mortdue im_value im_yoj im_ninq im_derog im_delinq;
